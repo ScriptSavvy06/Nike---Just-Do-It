@@ -18,8 +18,6 @@ This project is a frontend implementation for a fictional Nike website, showcasi
 ## Usage
 Simply open the `index.html` file in a web browser to view the website.
 
-## Screenshots
-- 
 
 ## Credits
 - Images: [https://unsplash.com/]
